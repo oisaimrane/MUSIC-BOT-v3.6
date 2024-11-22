@@ -22,11 +22,11 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["793877159966015548", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  status: 'BAMBINO',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
