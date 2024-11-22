@@ -25,7 +25,7 @@ module.exports = {
   ownerID: ["793877159966015548", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://c4clan3:c4clan3@c4clan3.ufkpd.mongodb.net/?retryWrites=true&w=majority",
   status: 'BAMBINO',
   commandsDir: './commands',
   language: "en",
